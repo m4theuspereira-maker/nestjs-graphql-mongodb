@@ -1,3 +1,6 @@
+That's a simple API which shows how the GraphQL works in integration with a no sql database as mongodb and and this advantages over rest APIs. 
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
